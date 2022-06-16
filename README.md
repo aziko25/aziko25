@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aziko25
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning TensorFlow
+- 👀 I’m programmer
 - 📫 My mail: azizxoja200425@mail.ru
 
 
